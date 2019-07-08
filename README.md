@@ -1,2 +1,0 @@
-# MrTEAMz
-HackerZ never dies
