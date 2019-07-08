@@ -1,0 +1,423 @@
+##############################################################
+######### ☆MADE BY KOLCOM☆                                                                                    ##                        
+## ¤ CREATED ON 15:51 -- 08 JUNE 2019                                                                          ##
+## ¤ UPDATED ON 21:48 --  08 JULY 2019                                                                         ##
+## ⊙VERSION : 1.3.993                                                                                                        ##
+## ⊙INFO: HOST FOR FREE FIRE                                                                                      ##
+## ⊙NEWS : BLOCKED NEW HOSTS AND MORE LUCKY TO NO FC                          ##                          
+######### ⊙ DON'T EDIT IT OR THE GAME WILL CATCH YOU OR BAN YOU ⊙ ##
+###########################################################
+
+127.0.0.1       localhost
+::1             ip6-localhost
+
+##REPORT SERVER##############
+127.0.0.1 9C8B0AE1.rtc.youme.im
+127.0.0.1 9C8B0AE1.dr.youme.im
+127.0.0.1 dr.youme.im
+############################
+
+## Wikipedia Block FC chance 40% ###
+127.0.0.1 wikipedia.org
+127.0.0.1 thewikigame.com
+############################
+
+##OTHERS BLOCK FC chance 50% ###
+127.0.0.1 wiki.gnome.org
+127.0.0.1 fandom.com
+############################
+
+########MOST SECURITY SITE####
+127.0.0.1 easy.ac
+############################
+
+########HELPERS SITES########
+127.0.0.1 support.ubi.com
+127.0.0.1 answers.ea.com
+127.0.0.1 epicgames.helpshift.com
+127.0.0.1 support.garena.co.id
+###########################
+
+########TENCENT COMPUTER SYSTEM
+127.0.0.1 ns3.qq.com
+127.0.0.1 ns2.qq.com
+127.0.0.1 ns4.qq.com
+127.0.0.1 ns1.qq.com
+127.0.0.1 tencent.com
+127.0.0.1 103.238.16.0/22
+127.0.0.1 103.38.116.0/22
+127.0.0.1 106.52.0.0/15
+127.0.0.1 106.52.112.0/20
+127.0.0.1 106.52.128.0/20
+127.0.0.1 106.52.144.0/20
+127.0.0.1 106.52.160.0/20
+127.0.0.1 106.52.16.0/20
+127.0.0.1 106.52.176.0/20
+127.0.0.1 52pojie.cn
+127.0.0.1 yiqiqimai.com
+127.0.0.1 gendiao2007.com
+127.0.0.1 iouad.top
+127.0.0.1 hfhdxx.com
+127.0.0.1 tg0123.com
+127.0.0.1 colllll-1ege.fun
+127.0.0.1 jjboom.com
+127.0.0.1 bbfxf.cn
+127.0.0.1 kw685.top
+127.0.0.1 chncia.org
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 tpns.qq.com
+
+##YOUME PROVIDER##########
+127.0.0.1 mxbiz1.qq.com
+127.0.0.1 ns3.dnsv4.com
+127.0.0.1 ns4.dnsv4.com
+127.0.0.1 106.75.152.243
+127.0.0.1 106.75.169.50
+###ALIBABA CLOUD YOUME##
+127.0.0.1 Alibaba.com
+127.0.0.1 47.91.162.99
+127.0.0.1 alibabacloud.com
+127.0.0.1 47.52.142.164
+#######################
+#########################
+#############################
+
+########NEW FREE FIRE AKAMAIHD##
+127.0.0.1 akamai.com
+127.0.0.1 AX0.AKAMAISTREAM.NET
+127.0.0.1 AX1.AKAMAISTREAM.NET
+127.0.0.1 AX2.AKAMAISTREAM.NET
+127.0.0.1 AX3.AKAMAISTREAM.NET
+127.0.0.1 NS2-32.AKAMAISTREAM.NET
+127.0.0.1 NS3-32.AKAMAISTREAM.NET
+127.0.0.1 NS6-32.AKAMAISTREAM.NET
+127.0.0.1 P5.AKAMAISTREAM.NET
+127.0.0.1 P6.AKAMAISTREAM.NET
+127.0.0.1 P7.AKAMAISTREAM.NET
+127.0.0.1 P8.AKAMAISTREAM.NET
+#############################
+
+########NEW EVENTS APPSFLYER###
+127.0.0.1 NS-1429.AWSDNS-50.ORG
+127.0.0.1 NS-659.AWSDNS-18.NET
+127.0.0.1 NS-326.AWSDNS-40.COM
+127.0.0.1 NS-1547.AWSDNS-01.CO.UK
+#############################
+
+127.0.0.1 pingma.qq.com
+127.0.0.1 down.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 www.qq.com
+127.0.0.1 xw.qq.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 reports.appsflyer.com
+127.0.0.1 169.62.251.174
+127.0.0.1 169.57.186.67
+127.0.0.1 203.205.211.75
+127.0.0.1 119.28.117.92
+127.0.0.1 148.153.85.70.4
+127.0.0.1 148.153.85.71.4
+127.0.0.1 148.153.89.16
+127.0.0.1 106.75.103.241
+127.0.0.1 47.244.28.227
+127.0.0.1 203.205.128.159
+127.0.0.1 49.51.175.147
+127.0.0.1 203.205.158.43
+127.0.0.1 e.crashlytics.com
+127.0.0.1 54.225.223.199
+127.0.0.1 54.225.133.199
+127.0.0.1 www.baidu.com
+127.0.0.1 141.0.15.3
+127.0.0.1 103.235.46.39
+127.0.0.1 104.83.34.144
+127.0.0.1 119.28.164.223
+127.0.0.1 203.205.138.244
+127.0.0.1 203.205.138.245
+127.0.0.1 203.205.138.243
+127.0.0.1 203.205.138.242
+127.0.0.1 119.28.98.71
+127.0.0.1 114.114.114.114
+127.0.0.1 youme.im
+127.0.0.1 169.62.251.180:39003
+127.0.0.1 79.140.80.32
+127.0.0.1 79.140.80.27
+127.0.0.1 47.75.203.12
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 123.126.122.26
+127.0.0.1 119.29.29.29
+127.0.0.1 182.254.116.117
+127.0.0.1 103.247.205.92
+127.0.0.1 103.247.205.49
+127.0.0.1 103.247.205.47
+127.0.0.1 103.247.205.46
+127.0.0.1 103.247.205.31
+127.0.0.1 103.247.205.48
+127.0.0.1 103.247.205.69
+127.0.0.1 103.247.205.67
+127.0.0.1 103.247.205.91
+127.0.0.1 103.247.205.66
+127.0.0.1 52.210.91.222
+127.0.0.1 52.208.181.170
+127.0.0.1 52.213.137.93
+127.0.0.1 52.210.207.31
+127.0.0.1 52.215.114.207
+127.0.0.1 52.214.62.191
+127.0.0.1 52.215.103.88
+127.0.0.1 52.208.158.204
+127.0.0.1 54.76.105.32
+127.0.0.1 54.72.47.172
+127.0.0.1 54.77.107.86
+127.0.0.1 54.76.251.248
+127.0.0.1 54.76.87.64
+127.0.0.1 54.77.106.188
+127.0.0.1 54.76.4.109
+127.0.0.1 54.72.190.25
+127.0.0.1 203.205.138.72
+127.0.0.1 203.205.158.48
+127.0.0.1 119.28.164.143
+127.0.0.1 119.28.164.222
+127.0.0.1 119.28.164.203
+127.0.0.1 119.28.164.202
+127.0.0.1 119.28.164.223
+127.0.0.1 203.205.138.82
+127.0.0.1 119.28.164.142
+127.0.0.1 203.205.158.43
+127.0.0.1 203.205.158.41
+127.0.0.1 47.244.37.216
+127.0.0.1 pingma.qq.com:80
+127.0.0.1 settings.crashlytics.com
+127.0.0.1 reports.crashlytics.com
+127.0.0.1 rtc.youme.im
+127.0.0.1 106.75.164.148
+127.0.0.1 47.106.73.254
+127.0.0.1 47.106.74.42
+127.0.0.1 106.75.103.241
+127.0.0.1 117.50.17.121
+127.0.0.1 106.75.178.55
+127.0.0.1 203.205.146.45
+127.0.0.1 157.240.201.17
+127.0.0.1 1.116.192.19
+##FIXED ERROR ON GAMEE##
+#127.0.0.1 freefiremobile-a.akamaihd.net
+
+##PRE-SHARED HOSTS
+_______LOOBY_____________
+127.0.0.1 game.eve.mdt.qq.com
+127.0.0.1 log.tbs.qq.com
+127.0.0.1 astat.bugly.qq.com
+127.0.0.1 ossweb-img.qq.com
+127.0.0.1 api.unipay.qq.com
+_______GAME_____________
+127.0.0.1 api.xunyou.mobi
+127.0.0.1 astat.bugly.qq.com
+_______SAAT FIKTUR AKTIF________
+127.0.0.1 mtt.eve.mdt.qq.com
+127.0.0.1 yyb.eve.mdt.qq.com
+127.0.0.1 cs.mbgame.gamesafe.qq.com
+127.0.0.1 control.mna.qq.com
+127.0.0.1 control.mocmna.qq.com
+127.0.0.1 cfm.broker.tplay.qq.com
+127.0.0.1 qatest.stone.qq.com
+127.0.0.1 sngmta.qq.com
+127.0.0.1 omgmta1.qq.com
+127.0.0.1 omgmta.qq.com
+127.0.0.1 mtcls.qq.com
+127.0.0.1 tpns.qq.com
+127.0.0.1 aexception.bugly.qq.com
+127.0.0.1 astat-bugly-tgw4l.mig.tencent-cloud.net
+127.0.0.1 pvp.qq.com
+127.0.0.1 pg.qq.com
+127.0.0.1 pubg.qq.com
+127.0.0.1 pubgm.qq.com
+127.0.0.1 3gimg.qq.com
+127.0.0.1 ztj.qq.com
+127.0.0.1 i.gtimg.cn
+127.0.0.1 res.golden.qq.com
+127.0.0.1 codol.qq.com
+127.0.0.1 img.crawler.qq.com
+127.0.0.1 p2.map.gtimg.com
+127.0.0.1 js.aq.qq.com
+127.0.0.1 sg.gtimg.com
+127.0.0.1 wegame.gtimg.com
+127.0.0.1 image.smoba.qq.com.cloud.tc.qq.com
+127.0.0.1 cfm.qq.com
+127.0.0.1 image.smoba.qq.com
+127.0.0.1 cf.qq.com
+127.0.0.1 mat1.gtimg.com
+127.0.0.1 lol.qq.com
+127.0.0.1 hy.cfm.qq.com
+127.0.0.1 sqimg.qq.com
+127.0.0.1 tgccfg.qq.com
+127.0.0.1 xj.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 x2.tcdn.qq.com
+127.0.0.1 666.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 page.coral.qq.com
+127.0.0.1 chijim.qq.com
+127.0.0.1 www.3366.com
+127.0.0.1 wuxia.qq.com
+127.0.0.1 manhua.qpic.cn
+127.0.0.1 pubgm.qq.com
+127.0.0.1 tiantang2.qq.com
+127.0.0.1 x5.qq.com
+127.0.0.1 cms.gtimg.com
+127.0.0.1 hszz.qq.com
+127.0.0.1 pg.qq.com
+127.0.0.1 res.golden.qq.com
+127.0.0.1 download.wegame.qq.com
+127.0.0.1 wegame.gtimg.com
+127.0.0.1 codol.qq.com
+127.0.0.1 cdn.qq.com
+127.0.0.1 image.qsm.qq.com
+127.0.0.1 game.sl.qq.com
+127.0.0.1 res.9z.qq.com
+127.0.0.1 mat1.gtimg.com
+127.0.0.1 sqimg.qq.com
+127.0.0.1 ava.qq.com
+127.0.0.1 cr.qq.com
+127.0.0.1 x2.tc.qq.com
+127.0.0.1 speed.qq.com
+127.0.0.1 lol.qq.com
+127.0.0.1 cfm.qq.com.cloud.tc.qq.com
+127.0.0.1 hy.pubgm.qq.com
+127.0.0.1 pvp.qq.com.cloud.tc.qq.com
+127.0.0.1 www.qidian.com
+127.0.0.1 game.gtimg.cn
+127.0.0.1 fps.qq.com
+127.0.0.1 nz.qq.com
+127.0.0.1 omgmta1.qq.com
+127.0.0.1 sngmta.qq.com
+127.0.0.1 dsgroup7.cfm.qq.com
+127.0.0.1 apm.wetest.qq.com
+127.0.0.1 broker.tplay.qq.com
+127.0.0.1 cdn.ur.qq.com
+127.0.0.1 res.imtt.qq.com
+127.0.0.1 image.ttwz.qq.com
+127.0.0.1 image.ztj.qq.com
+127.0.0.1 qjjx.qq.com
+127.0.0.1 hj.qq.com
+127.0.0.1 9z.qq.com
+127.0.0.1 jieji.qq.com
+127.0.0.1 wt.qq.com
+127.0.0.1 slg.qq.com
+127.0.0.1 ty.qq.com
+127.0.0.1 3.qq.com
+127.0.0.1 fuli.qq.com
+127.0.0.1 yi.qq.com
+127.0.0.1 zx.qq.com
+127.0.0.1 res.gamebbs.qq.com
+127.0.0.1 ra.gtimg.com
+127.0.0.1 swa.gtimg.com
+127.0.0.1 pvz.qq.com
+127.0.0.1 mo.qq.com
+127.0.0.1 lpl.qq.com
+127.0.0.1 pc2.gtimg.com
+127.0.0.1 m.game.qq.com
+127.0.0.1 yz.lol.qq.com
+127.0.0.1 fl1.gtimg.com
+127.0.0.1 wximg.qq.com
+127.0.0.1 image.lzgjx.qq.com
+127.0.0.1 fl3.gtimg.com
+127.0.0.1 mats.gtimg.com
+127.0.0.1 mff.qq.com
+127.0.0.1 hyrz.qq.com
+127.0.0.1 ffm.qq.com
+127.0.0.1 7.qq.com
+127.0.0.1 m2.map.gtimg.com
+127.0.0.1 qq.qq.com
+127.0.0.1 appmusic.qq.com
+127.0.0.1 fl.cdn.qq.com
+127.0.0.1 6j.qq.com
+127.0.0.1 poker.qq.com
+127.0.0.1 53.qq.com
+127.0.0.1 zt.qq.com
+127.0.0.1 mir.qq.com
+127.0.0.1 ccs.qq.com
+127.0.0.1 peng.qq.com
+127.0.0.1 minigame.qq.com
+127.0.0.1 res.ncdz.qq.com
+127.0.0.1 kof98ol.qq.com
+127.0.0.1 moba.qq.com
+127.0.0.1 sgzr.qq.com
+127.0.0.1 ld2.qq.com
+127.0.0.1 xinyue.qq.com
+127.0.0.1 hlpsz.qq.com
+127.0.0.1 nb.iso.qq.com
+127.0.0.1 lolriotmall.qq.com
+127.0.0.1 image.qhmy.qq.com
+127.0.0.1 cfm.qq.com.cloud.tc.qq.com
+127.0.0.1 hy.pubgm.qq.com
+127.0.0.1 image.slg.qq.com
+127.0.0.1 3366.gtimg.com
+127.0.0.1 res.x5m.qq.com
+127.0.0.1 pvp.qq.com.cloud.tc.qq.com
+127.0.0.1 rt1.map.gtimg.com
+127.0.0.1 pg.qq.com.cloud.tc.qq.com
+127.0.0.1 change.qq.com
+127.0.0.1 zqnba.qq.com.cloud.tc.qq.com
+127.0.0.1 cdn.huanle.qq.com
+127.0.0.1 ztj.qq.com
+127.0.0.1 yxwd.qq.com
+127.0.0.1 new.qqhx.qq.com
+127.0.0.1 cr.qq.com
+127.0.0.1 x5m.qq.com
+127.0.0.1 dh.qq.com
+127.0.0.1 bns.qq.com
+127.0.0.1 jiazhang.qq.com
+127.0.0.1 ylztweb.qq.com
+127.0.0.1 tiantang.qq.com
+127.0.0.1 sg.qq.com
+127.0.0.1 qgcdn0.gtimg.com
+127.0.0.1 h1z1.qq.com
+127.0.0.1 r2.qq.com
+127.0.0.1 zxpic.gtimg.com
+127.0.0.1 game.gtimg.cn
+127.0.0.1 act.daoju.qq.com
+127.0.0.1 ffo.qq.com
+127.0.0.1 nz.qq.com
+127.0.0.1 www.qidian.com
+127.0.0.1 pc1.gtimg.com
+127.0.0.1 cdn.ark.qq.com
+127.0.0.1 mirs.qq.com 
+117.136.32.29 ns-osr.qq.com
+117.136.32.29 ns-os.qq.com
+117.136.32.29 ns-ns1.qq.com
+117.136.32.29 ns-os1.qq.com
+117.136.32.29 ns-cmn1.qq.com
+117.136.32.29 ns-crmn1.qq.com
+117.136.32.29 ns-Owu1.qq.com
+117.136.32.29 c1.qq.com
+117.136.32.29 ns-cnc1.qq.com
+117.136.32.29 ns-teq.com
+117.136.32.29 ns-tel1.qq.com
+117.136.32.29 ns-telqq.com
+117.136.32.29 dns.qq.com
+117.136.32.29 osr.qq.com
+117.136.32.29 os.qq.com
+117.136.32.29 ns1.qq.com
+117.136.32.29 os1.qq.com
+117.136.32.29 cmn1.qq.com
+117.136.32.29 crmn1.qq.com
+117.136.32.29 Owu1.qq.com
+117.136.32.29 c1.qq.com
+117.136.32.29 cnc1.qq.com
+117.136.32.29 teq.com
+117.136.32.29 tel1.qq.com
+117.136.32.29 telqq.com
+_______登陆界面________
+117.136.32.29 pingma.qq.com
+117.136.32.29 down.game.qq.com
+_______大厅_____________
+117.136.32.29 game.eve.mdt.qq.com
+117.136.32.29 log.tbs.qq.com
+117.136.32.29 astat.bugly.qq.com
+117.136.32.29 ossweb-img.qq.com
+117.136.32.29 api.unipay.qq.com
+_______游戏_____________
+117.136.32.29 api.xunyou.mobi
+117.136.32.29 astat.bugly.qq.com
+
+ 
+8.8.8.8 googledns
