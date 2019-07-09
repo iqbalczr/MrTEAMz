@@ -109,8 +109,9 @@
 127.0.0.1 dlied1.qq.com
 127.0.0.1 www.qq.com
 127.0.0.1 xw.qq.com
-127.0.0.1 t.appsflyer.com
-127.0.0.1 events.appsflyer
+127.0.0.1 t.appsflyer.com.com
+127.0.0.1 events.appsflyer.com
+127.0.0.1 api.appsflyer.com
 127.0.0.1 169.62.251.174
 127.0.0.1 169.57.186.67
 127.0.0.1 203.205.211.75
